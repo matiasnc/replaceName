@@ -1,3 +1,7 @@
+get_serv_name.py
+serv_name.txt
+new_serv_name.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
